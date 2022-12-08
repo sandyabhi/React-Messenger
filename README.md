@@ -65,7 +65,7 @@ Real Time Chat Web Application
 
 ## Tech Stack
 * ReactJS: For the frontend
-* MongoDB: To store the user info, messages, groups.
+* MongoDB: Cloud Database to store the user info, messages, groups.
 * Socket IO: Realtime communication
 * NodeJS: For the backend
 * Cloudinary: To store profile picture
