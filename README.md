@@ -1,7 +1,7 @@
 # Chat-App
-Real Time Chat Web Application
+Real-Time Chat Web Application
 
-## [LIVE](https://messenger-production-34ac.up.railway.app)
+## [LIVE](https://pigeonchat.onrender.com)
 
 ## Demo
 
@@ -65,11 +65,11 @@ Real Time Chat Web Application
 
 ## Tech Stack
 * ReactJS: For the frontend
-* MongoDB: Cloud Database to store the user info, messages, groups.
+* MongoDB: Cloud Database to store the user info, messages, and groups.
 * Socket IO: Realtime communication
 * NodeJS: For the backend
 * Cloudinary: To store profile picture
 * Chakra UI: CSS FrameWork
-* Mongoose: 
-* JWT:
+* Mongoose: MongoDB ORM  
+* JWT
 * Axios
